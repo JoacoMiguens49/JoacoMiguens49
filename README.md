@@ -6,4 +6,4 @@
 
 ### Contact me
 
-<i class="fa fa-envelope"></i> Email: joacomiguens@gmail.com
+✉️ Email: joacomiguens@gmail.com
